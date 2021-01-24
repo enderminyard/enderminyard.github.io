@@ -1,2 +1,2 @@
-# enderminyard.github.io
+# enderminyard
 Personal website.
